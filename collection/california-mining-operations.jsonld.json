@@ -27,8 +27,11 @@
       "@id": "http://id.worldcat.org/fast/969633"
     }
   ],
-  "schema:datePublished": "circa 1870-1920",
-  "schema:description": "Album featuring mining operations likely in central and northern California in the late 19th or early 20th century.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:description": "Album featuring mining operations likely in central and northern California in the late 19th or early 20th century. Captions identify Great Grandpa Bessac, Grandma Bessac, Grandpa Bessac and Uncle Roy. include mules hauling ore, an ore tipple, a mining dredge and a mining shaft. Small mining towns are pictured on rolling hills dotted with oak trees or densely wooded areas, and a few smaller mining operations are pictured near roaring rivers. Throughout the album there are photos of the Bessac family (these are the only photos captioned): men and women lounging in a flower-filled field, feeding pigs, bringing in a deer kill, milking cows and standing in front of a mine shaft. There are also two images with native men, women and children pictured.\n\n [Description provided by Back of Beyond Books].",
   "schema:inLanguage": "en",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
@@ -37,6 +40,7 @@
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   },
   "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:Publisher": "UC Davis Library, Archives and Special Collections",
   "schema:isBasedOn": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c83x8f05"
   },
@@ -44,7 +48,7 @@
   "schema:creator": "Bessac family",
   "schema:identifier": [
     "ark:/87293/d34b2xg3s",
-    "MC329"
+    "MC-329"
   ],
   "schema:image": {
     "@id": "@base:/thumbnail.jpg"

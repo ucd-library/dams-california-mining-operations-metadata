@@ -28,8 +28,7 @@
       "@id": "http://id.worldcat.org/fast/969633"
     }
   ],
-  "schema:datePublished": "circa 1870-1920",
-  "schema:description": "Album featuring mining operations likely in central and northern California in the late 19th or early 20th century.",
+  "schema:datePublished": "1870/1920~",
   "schema:inLanguage": "en",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
